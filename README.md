@@ -1,4 +1,4 @@
-# Studying the coexistestence of oscillations and avalanches near the critical point in modified Ising model of biological neuronal networks
+## Statistical model of (braiin˙s) neuronal networks which exhibits co-existence of avalanches and oscillations near the critical point 
 Implementation of a negative-feedback Ising model, with Monte Carlo sampling and time-series analysis used to investigate and replicate statistical and dynamical features of biological neural networks, namely the coexistence of oscillations (brain waves) and avalanches around the critical point transition. This was a part of a wider project to which I contributed while in the Prof. Tkaćik´s group during my (pre)PhD at IST Austria, which was published in Nature Comp. Sci. 2023.
 
 A great introductory video on the topic of criticality, phase transitions and information flow in the (brain´s) neural networks can be watched [here](https://youtu.be/vwLb3XlPCB4?si=vbjNB3x1YviJKtKc).
